@@ -1,0 +1,529 @@
+participant_internal_id,participant_characteristic_name,participant_characteristic_value,participant_characteristic_unit,participant_characteristic_description
+FUSPCEU_S003,VLSQ8,16,,Source: vlsq8.RData; original column: VLSQ8.
+FUSPCEU_S003,meq_type,2,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+FUSPCEU_S003,meq,67,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+FUSPCEU_S003,msf_sc,6900,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+FUSPCEU_S003,sjl,0,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+FUSPCEU_S003,so_w,82200,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+FUSPCEU_S003,so_f,82200,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+FUSPCEU_S003,sd_w,6.16666666666667,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+FUSPCEU_S003,sd_f,6.16666666666667,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+FUSPCEU_S003,msw,6900,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+FUSPCEU_S003,msf,6900,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+FUSPCEU_S003,sd_week,6.16666666666667,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+FUSPCEU_S003,outdoor,60,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+FUSPCEU_S003,native_language,TRUE,,Source: demographics.RData; original column: native_language.
+FUSPCEU_S003,employment_status,1,,Source: demographics.RData; original column: employment_status.
+FUSPCEU_S003,medication,TRUE,,Source: health.RData; original column: medication.
+FUSPCEU_S003,tobacco,FALSE,,Source: health.RData; original column: tobacco.
+FUSPCEU_S003,drugs,,,Source: health.RData; original column: drugs.
+FUSPCEU_S003,disorder,FALSE,,Source: health.RData; original column: disorder.
+FUSPCEU_S003,gen_health,4,,Source: health.RData; original column: gen_health.
+FUSPCEU_S003,visual_acuity,1,,Source: health.RData; original column: visual_acuity.
+FUSPCEU_S003,glasses_use,FALSE,,Source: evaluation.RData; original column: glasses_use.
+FUSPCEU_S003,ASE,28,,Source: ase.RData; original column: ASE.
+FUSPCEU_S004,VLSQ8,24,,Source: vlsq8.RData; original column: VLSQ8.
+FUSPCEU_S004,meq_type,3,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+FUSPCEU_S004,meq,50,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+FUSPCEU_S004,msf_sc,18150,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+FUSPCEU_S004,sjl,1.20833333333333,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+FUSPCEU_S004,so_w,3900,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+FUSPCEU_S004,so_f,7200,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+FUSPCEU_S004,sd_w,5.91666666666667,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+FUSPCEU_S004,sd_f,6.5,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+FUSPCEU_S004,msw,14550,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+FUSPCEU_S004,msf,18900,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+FUSPCEU_S004,sd_week,6.08333333333333,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+FUSPCEU_S004,outdoor,231.428571428571,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+FUSPCEU_S004,native_language,TRUE,,Source: demographics.RData; original column: native_language.
+FUSPCEU_S004,employment_status,3,,Source: demographics.RData; original column: employment_status.
+FUSPCEU_S004,medication,TRUE,,Source: health.RData; original column: medication.
+FUSPCEU_S004,tobacco,FALSE,,Source: health.RData; original column: tobacco.
+FUSPCEU_S004,drugs,,,Source: health.RData; original column: drugs.
+FUSPCEU_S004,disorder,FALSE,,Source: health.RData; original column: disorder.
+FUSPCEU_S004,gen_health,3,,Source: health.RData; original column: gen_health.
+FUSPCEU_S004,visual_acuity,2,,Source: health.RData; original column: visual_acuity.
+FUSPCEU_S004,glasses_use,TRUE,,Source: evaluation.RData; original column: glasses_use.
+FUSPCEU_S004,ASE,27,,Source: ase.RData; original column: ASE.
+FUSPCEU_S005,VLSQ8,26,,Source: vlsq8.RData; original column: VLSQ8.
+FUSPCEU_S005,meq_type,3,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+FUSPCEU_S005,meq,50,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+FUSPCEU_S005,msf_sc,15557.1428569555,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+FUSPCEU_S005,sjl,1.25,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+FUSPCEU_S005,so_w,82800,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+FUSPCEU_S005,so_f,0,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+FUSPCEU_S005,sd_w,8.5,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+FUSPCEU_S005,sd_f,9,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+FUSPCEU_S005,msw,11700,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+FUSPCEU_S005,msf,16200,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+FUSPCEU_S005,sd_week,8.64285714285714,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+FUSPCEU_S005,outdoor,137.142857142857,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+FUSPCEU_S005,native_language,TRUE,,Source: demographics.RData; original column: native_language.
+FUSPCEU_S005,employment_status,1,,Source: demographics.RData; original column: employment_status.
+FUSPCEU_S005,medication,TRUE,,Source: health.RData; original column: medication.
+FUSPCEU_S005,tobacco,FALSE,,Source: health.RData; original column: tobacco.
+FUSPCEU_S005,drugs,,,Source: health.RData; original column: drugs.
+FUSPCEU_S005,disorder,FALSE,,Source: health.RData; original column: disorder.
+FUSPCEU_S005,gen_health,3,,Source: health.RData; original column: gen_health.
+FUSPCEU_S005,visual_acuity,1,,Source: health.RData; original column: visual_acuity.
+FUSPCEU_S005,glasses_use,FALSE,,Source: evaluation.RData; original column: glasses_use.
+FUSPCEU_S005,ASE,31,,Source: ase.RData; original column: ASE.
+FUSPCEU_S006,VLSQ8,19,,Source: vlsq8.RData; original column: VLSQ8.
+FUSPCEU_S006,meq_type,3,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+FUSPCEU_S006,meq,54,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+FUSPCEU_S006,msf_sc,18900,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+FUSPCEU_S006,sjl,1.91666666666667,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+FUSPCEU_S006,so_w,0,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+FUSPCEU_S006,so_f,7200,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+FUSPCEU_S006,sd_w,6.66666666666667,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+FUSPCEU_S006,sd_f,6.5,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+FUSPCEU_S006,msw,12000,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+FUSPCEU_S006,msf,18900,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+FUSPCEU_S006,sd_week,6.61904761904762,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+FUSPCEU_S006,outdoor,94.2857142857143,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+FUSPCEU_S006,native_language,TRUE,,Source: demographics.RData; original column: native_language.
+FUSPCEU_S006,employment_status,1,,Source: demographics.RData; original column: employment_status.
+FUSPCEU_S006,medication,FALSE,,Source: health.RData; original column: medication.
+FUSPCEU_S006,tobacco,FALSE,,Source: health.RData; original column: tobacco.
+FUSPCEU_S006,drugs,,,Source: health.RData; original column: drugs.
+FUSPCEU_S006,disorder,FALSE,,Source: health.RData; original column: disorder.
+FUSPCEU_S006,gen_health,2,,Source: health.RData; original column: gen_health.
+FUSPCEU_S006,visual_acuity,1,,Source: health.RData; original column: visual_acuity.
+FUSPCEU_S006,glasses_use,FALSE,,Source: evaluation.RData; original column: glasses_use.
+FUSPCEU_S006,ASE,28,,Source: ase.RData; original column: ASE.
+FUSPCEU_S007,VLSQ8,14,,Source: vlsq8.RData; original column: VLSQ8.
+FUSPCEU_S007,meq_type,4,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+FUSPCEU_S007,meq,36,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+FUSPCEU_S007,msf_sc,,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+FUSPCEU_S007,sjl,,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+FUSPCEU_S007,so_w,600,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+FUSPCEU_S007,so_f,,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+FUSPCEU_S007,sd_w,7.83333333333333,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+FUSPCEU_S007,sd_f,,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+FUSPCEU_S007,msw,14700,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+FUSPCEU_S007,msf,,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+FUSPCEU_S007,sd_week,,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+FUSPCEU_S007,outdoor,,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+FUSPCEU_S007,native_language,TRUE,,Source: demographics.RData; original column: native_language.
+FUSPCEU_S007,employment_status,1,,Source: demographics.RData; original column: employment_status.
+FUSPCEU_S007,medication,TRUE,,Source: health.RData; original column: medication.
+FUSPCEU_S007,tobacco,FALSE,,Source: health.RData; original column: tobacco.
+FUSPCEU_S007,drugs,,,Source: health.RData; original column: drugs.
+FUSPCEU_S007,disorder,FALSE,,Source: health.RData; original column: disorder.
+FUSPCEU_S007,gen_health,1,,Source: health.RData; original column: gen_health.
+FUSPCEU_S007,visual_acuity,1,,Source: health.RData; original column: visual_acuity.
+FUSPCEU_S007,glasses_use,FALSE,,Source: evaluation.RData; original column: glasses_use.
+FUSPCEU_S007,ASE,19,,Source: ase.RData; original column: ASE.
+FUSPCEU_S008,VLSQ8,16,,Source: vlsq8.RData; original column: VLSQ8.
+FUSPCEU_S008,meq_type,3,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+FUSPCEU_S008,meq,54,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+FUSPCEU_S008,msf_sc,29271.4285709858,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+FUSPCEU_S008,sjl,3.83333333333333,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+FUSPCEU_S008,so_w,3000,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+FUSPCEU_S008,so_f,16200,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+FUSPCEU_S008,sd_w,7.16666666666667,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+FUSPCEU_S008,sd_f,7.5,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+FUSPCEU_S008,msw,15900,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+FUSPCEU_S008,msf,29700,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+FUSPCEU_S008,sd_week,7.26190476190476,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+FUSPCEU_S008,outdoor,154.285714285714,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+FUSPCEU_S008,native_language,TRUE,,Source: demographics.RData; original column: native_language.
+FUSPCEU_S008,employment_status,1,,Source: demographics.RData; original column: employment_status.
+FUSPCEU_S008,medication,FALSE,,Source: health.RData; original column: medication.
+FUSPCEU_S008,tobacco,FALSE,,Source: health.RData; original column: tobacco.
+FUSPCEU_S008,drugs,,,Source: health.RData; original column: drugs.
+FUSPCEU_S008,disorder,FALSE,,Source: health.RData; original column: disorder.
+FUSPCEU_S008,gen_health,1,,Source: health.RData; original column: gen_health.
+FUSPCEU_S008,visual_acuity,1,,Source: health.RData; original column: visual_acuity.
+FUSPCEU_S008,glasses_use,FALSE,,Source: evaluation.RData; original column: glasses_use.
+FUSPCEU_S008,ASE,33,,Source: ase.RData; original column: ASE.
+FUSPCEU_S009,VLSQ8,19,,Source: vlsq8.RData; original column: VLSQ8.
+FUSPCEU_S009,meq_type,3,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+FUSPCEU_S009,meq,52,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+FUSPCEU_S009,msf_sc,14592.8571430445,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+FUSPCEU_S009,sjl,0.958333333333333,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+FUSPCEU_S009,so_w,83700,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+FUSPCEU_S009,so_f,600,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+FUSPCEU_S009,sd_w,7.75,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+FUSPCEU_S009,sd_f,7.83333333333333,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+FUSPCEU_S009,msw,11250,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+FUSPCEU_S009,msf,14700,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+FUSPCEU_S009,sd_week,7.77380952380952,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+FUSPCEU_S009,outdoor,94.2857142857143,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+FUSPCEU_S009,native_language,TRUE,,Source: demographics.RData; original column: native_language.
+FUSPCEU_S009,employment_status,1,,Source: demographics.RData; original column: employment_status.
+FUSPCEU_S009,medication,FALSE,,Source: health.RData; original column: medication.
+FUSPCEU_S009,tobacco,FALSE,,Source: health.RData; original column: tobacco.
+FUSPCEU_S009,drugs,,,Source: health.RData; original column: drugs.
+FUSPCEU_S009,disorder,FALSE,,Source: health.RData; original column: disorder.
+FUSPCEU_S009,gen_health,1,,Source: health.RData; original column: gen_health.
+FUSPCEU_S009,visual_acuity,2,,Source: health.RData; original column: visual_acuity.
+FUSPCEU_S009,glasses_use,TRUE,,Source: evaluation.RData; original column: glasses_use.
+FUSPCEU_S009,ASE,28,,Source: ase.RData; original column: ASE.
+FUSPCEU_S010,VLSQ8,17,,Source: vlsq8.RData; original column: VLSQ8.
+FUSPCEU_S010,meq_type,2,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+FUSPCEU_S010,meq,67,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+FUSPCEU_S010,msf_sc,11957.1428569555,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+FUSPCEU_S010,sjl,0.75,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+FUSPCEU_S010,so_w,81000,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+FUSPCEU_S010,so_f,82800,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+FUSPCEU_S010,sd_w,8.5,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+FUSPCEU_S010,sd_f,9,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+FUSPCEU_S010,msw,9900,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+FUSPCEU_S010,msf,12600,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+FUSPCEU_S010,sd_week,8.64285714285714,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+FUSPCEU_S010,outdoor,62.1428571428571,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+FUSPCEU_S010,native_language,TRUE,,Source: demographics.RData; original column: native_language.
+FUSPCEU_S010,employment_status,1,,Source: demographics.RData; original column: employment_status.
+FUSPCEU_S010,medication,FALSE,,Source: health.RData; original column: medication.
+FUSPCEU_S010,tobacco,FALSE,,Source: health.RData; original column: tobacco.
+FUSPCEU_S010,drugs,,,Source: health.RData; original column: drugs.
+FUSPCEU_S010,disorder,FALSE,,Source: health.RData; original column: disorder.
+FUSPCEU_S010,gen_health,3,,Source: health.RData; original column: gen_health.
+FUSPCEU_S010,visual_acuity,1,,Source: health.RData; original column: visual_acuity.
+FUSPCEU_S010,glasses_use,FALSE,,Source: evaluation.RData; original column: glasses_use.
+FUSPCEU_S010,ASE,30,,Source: ase.RData; original column: ASE.
+FUSPCEU_S011,VLSQ8,21,,Source: vlsq8.RData; original column: VLSQ8.
+FUSPCEU_S011,meq_type,3,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+FUSPCEU_S011,meq,55,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+FUSPCEU_S011,msf_sc,16200,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+FUSPCEU_S011,sjl,1,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+FUSPCEU_S011,so_w,0,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+FUSPCEU_S011,so_f,7200,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+FUSPCEU_S011,sd_w,7,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+FUSPCEU_S011,sd_f,5,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+FUSPCEU_S011,msw,12600,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+FUSPCEU_S011,msf,16200,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+FUSPCEU_S011,sd_week,6.42857142857143,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+FUSPCEU_S011,outdoor,200,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+FUSPCEU_S011,native_language,TRUE,,Source: demographics.RData; original column: native_language.
+FUSPCEU_S011,employment_status,1,,Source: demographics.RData; original column: employment_status.
+FUSPCEU_S011,medication,TRUE,,Source: health.RData; original column: medication.
+FUSPCEU_S011,tobacco,FALSE,,Source: health.RData; original column: tobacco.
+FUSPCEU_S011,drugs,,,Source: health.RData; original column: drugs.
+FUSPCEU_S011,disorder,FALSE,,Source: health.RData; original column: disorder.
+FUSPCEU_S011,gen_health,2,,Source: health.RData; original column: gen_health.
+FUSPCEU_S011,visual_acuity,3,,Source: health.RData; original column: visual_acuity.
+FUSPCEU_S011,glasses_use,TRUE,,Source: evaluation.RData; original column: glasses_use.
+FUSPCEU_S011,ASE,36,,Source: ase.RData; original column: ASE.
+FUSPCEU_S012,VLSQ8,24,,Source: vlsq8.RData; original column: VLSQ8.
+FUSPCEU_S012,meq_type,3,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+FUSPCEU_S012,meq,54,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+FUSPCEU_S012,msf_sc,17250,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+FUSPCEU_S012,sjl,1.66666666666667,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+FUSPCEU_S012,so_w,83700,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+FUSPCEU_S012,so_f,3900,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+FUSPCEU_S012,sd_w,7.75,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+FUSPCEU_S012,sd_f,7.41666666666667,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+FUSPCEU_S012,msw,11250,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+FUSPCEU_S012,msf,17250,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+FUSPCEU_S012,sd_week,7.75,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+FUSPCEU_S012,outdoor,120,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+FUSPCEU_S012,native_language,TRUE,,Source: demographics.RData; original column: native_language.
+FUSPCEU_S012,employment_status,1,,Source: demographics.RData; original column: employment_status.
+FUSPCEU_S012,medication,FALSE,,Source: health.RData; original column: medication.
+FUSPCEU_S012,tobacco,FALSE,,Source: health.RData; original column: tobacco.
+FUSPCEU_S012,drugs,,,Source: health.RData; original column: drugs.
+FUSPCEU_S012,disorder,FALSE,,Source: health.RData; original column: disorder.
+FUSPCEU_S012,gen_health,2,,Source: health.RData; original column: gen_health.
+FUSPCEU_S012,visual_acuity,1,,Source: health.RData; original column: visual_acuity.
+FUSPCEU_S012,glasses_use,FALSE,,Source: evaluation.RData; original column: glasses_use.
+FUSPCEU_S012,ASE,27,,Source: ase.RData; original column: ASE.
+FUSPCEU_S013,VLSQ8,17,,Source: vlsq8.RData; original column: VLSQ8.
+FUSPCEU_S013,meq_type,3,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+FUSPCEU_S013,meq,50,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+FUSPCEU_S013,msf_sc,16392.8571430445,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+FUSPCEU_S013,sjl,1.125,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+FUSPCEU_S013,so_w,1800,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+FUSPCEU_S013,so_f,3600,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+FUSPCEU_S013,sd_w,6.75,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+FUSPCEU_S013,sd_f,8,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+FUSPCEU_S013,msw,13950,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+FUSPCEU_S013,msf,18000,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+FUSPCEU_S013,sd_week,7.10714285714286,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+FUSPCEU_S013,outdoor,145.714285714286,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+FUSPCEU_S013,native_language,TRUE,,Source: demographics.RData; original column: native_language.
+FUSPCEU_S013,employment_status,1,,Source: demographics.RData; original column: employment_status.
+FUSPCEU_S013,medication,FALSE,,Source: health.RData; original column: medication.
+FUSPCEU_S013,tobacco,FALSE,,Source: health.RData; original column: tobacco.
+FUSPCEU_S013,drugs,,,Source: health.RData; original column: drugs.
+FUSPCEU_S013,disorder,FALSE,,Source: health.RData; original column: disorder.
+FUSPCEU_S013,gen_health,1,,Source: health.RData; original column: gen_health.
+FUSPCEU_S013,visual_acuity,1,,Source: health.RData; original column: visual_acuity.
+FUSPCEU_S013,glasses_use,FALSE,,Source: evaluation.RData; original column: glasses_use.
+FUSPCEU_S013,ASE,24,,Source: ase.RData; original column: ASE.
+FUSPCEU_S014,VLSQ8,26,,Source: vlsq8.RData; original column: VLSQ8.
+FUSPCEU_S014,meq_type,3,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+FUSPCEU_S014,meq,47,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+FUSPCEU_S014,msf_sc,14820,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+FUSPCEU_S014,sjl,0.575,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+FUSPCEU_S014,so_w,300,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+FUSPCEU_S014,so_f,4440,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+FUSPCEU_S014,sd_w,6.91666666666667,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+FUSPCEU_S014,sd_f,5.76666666666667,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+FUSPCEU_S014,msw,12750,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+FUSPCEU_S014,msf,14820,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+FUSPCEU_S014,sd_week,6.58809523809524,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+FUSPCEU_S014,outdoor,154.285714285714,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+FUSPCEU_S014,native_language,TRUE,,Source: demographics.RData; original column: native_language.
+FUSPCEU_S014,employment_status,1,,Source: demographics.RData; original column: employment_status.
+FUSPCEU_S014,medication,TRUE,,Source: health.RData; original column: medication.
+FUSPCEU_S014,tobacco,FALSE,,Source: health.RData; original column: tobacco.
+FUSPCEU_S014,drugs,,,Source: health.RData; original column: drugs.
+FUSPCEU_S014,disorder,FALSE,,Source: health.RData; original column: disorder.
+FUSPCEU_S014,gen_health,1,,Source: health.RData; original column: gen_health.
+FUSPCEU_S014,visual_acuity,1,,Source: health.RData; original column: visual_acuity.
+FUSPCEU_S014,glasses_use,FALSE,,Source: evaluation.RData; original column: glasses_use.
+FUSPCEU_S014,ASE,29,,Source: ase.RData; original column: ASE.
+FUSPCEU_S015,VLSQ8,13,,Source: vlsq8.RData; original column: VLSQ8.
+FUSPCEU_S015,meq_type,2,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+FUSPCEU_S015,meq,62,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+FUSPCEU_S015,msf_sc,13007.1428569555,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+FUSPCEU_S015,sjl,0.75,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+FUSPCEU_S015,so_w,84900,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+FUSPCEU_S015,so_f,300,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+FUSPCEU_S015,sd_w,6.91666666666667,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+FUSPCEU_S015,sd_f,7.41666666666667,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+FUSPCEU_S015,msw,10950,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+FUSPCEU_S015,msf,13650,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+FUSPCEU_S015,sd_week,7.05952380952381,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+FUSPCEU_S015,outdoor,154.285714285714,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+FUSPCEU_S015,native_language,TRUE,,Source: demographics.RData; original column: native_language.
+FUSPCEU_S015,employment_status,2,,Source: demographics.RData; original column: employment_status.
+FUSPCEU_S015,medication,FALSE,,Source: health.RData; original column: medication.
+FUSPCEU_S015,tobacco,FALSE,,Source: health.RData; original column: tobacco.
+FUSPCEU_S015,drugs,,,Source: health.RData; original column: drugs.
+FUSPCEU_S015,disorder,FALSE,,Source: health.RData; original column: disorder.
+FUSPCEU_S015,gen_health,3,,Source: health.RData; original column: gen_health.
+FUSPCEU_S015,visual_acuity,2,,Source: health.RData; original column: visual_acuity.
+FUSPCEU_S015,glasses_use,FALSE,,Source: evaluation.RData; original column: glasses_use.
+FUSPCEU_S015,ASE,33,,Source: ase.RData; original column: ASE.
+FUSPCEU_S016,VLSQ8,29,,Source: vlsq8.RData; original column: VLSQ8.
+FUSPCEU_S016,meq_type,2,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+FUSPCEU_S016,meq,62,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+FUSPCEU_S016,msf_sc,16500,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+FUSPCEU_S016,sjl,0.75,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+FUSPCEU_S016,so_w,85200,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+FUSPCEU_S016,so_f,2400,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+FUSPCEU_S016,sd_w,8.33333333333333,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+FUSPCEU_S016,sd_f,7.83333333333333,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+FUSPCEU_S016,msw,13800,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+FUSPCEU_S016,msf,16500,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+FUSPCEU_S016,sd_week,8.19047619047619,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+FUSPCEU_S016,outdoor,497.142857142857,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+FUSPCEU_S016,native_language,FALSE,,Source: demographics.RData; original column: native_language.
+FUSPCEU_S016,employment_status,1,,Source: demographics.RData; original column: employment_status.
+FUSPCEU_S016,medication,FALSE,,Source: health.RData; original column: medication.
+FUSPCEU_S016,tobacco,FALSE,,Source: health.RData; original column: tobacco.
+FUSPCEU_S016,drugs,,,Source: health.RData; original column: drugs.
+FUSPCEU_S016,disorder,FALSE,,Source: health.RData; original column: disorder.
+FUSPCEU_S016,gen_health,1,,Source: health.RData; original column: gen_health.
+FUSPCEU_S016,visual_acuity,1,,Source: health.RData; original column: visual_acuity.
+FUSPCEU_S016,glasses_use,FALSE,,Source: evaluation.RData; original column: glasses_use.
+FUSPCEU_S016,ASE,30,,Source: ase.RData; original column: ASE.
+FUSPCEU_S017,VLSQ8,34,,Source: vlsq8.RData; original column: VLSQ8.
+FUSPCEU_S017,meq_type,3,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+FUSPCEU_S017,meq,45,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+FUSPCEU_S017,msf_sc,22178.5714290142,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+FUSPCEU_S017,sjl,2.875,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+FUSPCEU_S017,so_w,85500,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+FUSPCEU_S017,so_f,9000,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+FUSPCEU_S017,sd_w,7.25,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+FUSPCEU_S017,sd_f,7.5,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+FUSPCEU_S017,msw,12150,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+FUSPCEU_S017,msf,22500,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+FUSPCEU_S017,sd_week,7.32142857142857,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+FUSPCEU_S017,outdoor,154.285714285714,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+FUSPCEU_S017,native_language,TRUE,,Source: demographics.RData; original column: native_language.
+FUSPCEU_S017,employment_status,1,,Source: demographics.RData; original column: employment_status.
+FUSPCEU_S017,medication,FALSE,,Source: health.RData; original column: medication.
+FUSPCEU_S017,tobacco,TRUE,,Source: health.RData; original column: tobacco.
+FUSPCEU_S017,drugs,,,Source: health.RData; original column: drugs.
+FUSPCEU_S017,disorder,FALSE,,Source: health.RData; original column: disorder.
+FUSPCEU_S017,gen_health,2,,Source: health.RData; original column: gen_health.
+FUSPCEU_S017,visual_acuity,1,,Source: health.RData; original column: visual_acuity.
+FUSPCEU_S017,glasses_use,FALSE,,Source: evaluation.RData; original column: glasses_use.
+FUSPCEU_S017,ASE,29,,Source: ase.RData; original column: ASE.
+FUSPCEU_S018,VLSQ8,22,,Source: vlsq8.RData; original column: VLSQ8.
+FUSPCEU_S018,meq_type,3,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+FUSPCEU_S018,meq,42,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+FUSPCEU_S018,msf_sc,19585.7142859697,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+FUSPCEU_S018,sjl,3.33333333333333,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+FUSPCEU_S018,so_w,81600,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+FUSPCEU_S018,so_f,4800,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+FUSPCEU_S018,sd_w,7.83333333333333,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+FUSPCEU_S018,sd_f,9.16666666666667,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+FUSPCEU_S018,msw,9300,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+FUSPCEU_S018,msf,21300,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+FUSPCEU_S018,sd_week,8.21428571428572,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+FUSPCEU_S018,outdoor,278.571428571429,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+FUSPCEU_S018,native_language,FALSE,,Source: demographics.RData; original column: native_language.
+FUSPCEU_S018,employment_status,5,,Source: demographics.RData; original column: employment_status.
+FUSPCEU_S018,medication,FALSE,,Source: health.RData; original column: medication.
+FUSPCEU_S018,tobacco,FALSE,,Source: health.RData; original column: tobacco.
+FUSPCEU_S018,drugs,,,Source: health.RData; original column: drugs.
+FUSPCEU_S018,disorder,FALSE,,Source: health.RData; original column: disorder.
+FUSPCEU_S018,gen_health,1,,Source: health.RData; original column: gen_health.
+FUSPCEU_S018,visual_acuity,1,,Source: health.RData; original column: visual_acuity.
+FUSPCEU_S018,glasses_use,FALSE,,Source: evaluation.RData; original column: glasses_use.
+FUSPCEU_S018,ASE,22,,Source: ase.RData; original column: ASE.
+FUSPCEU_S019,VLSQ8,22,,Source: vlsq8.RData; original column: VLSQ8.
+FUSPCEU_S019,meq_type,2,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+FUSPCEU_S019,meq,65,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+FUSPCEU_S019,msf_sc,11400,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+FUSPCEU_S019,sjl,0.0416666666666667,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+FUSPCEU_S019,so_w,83700,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+FUSPCEU_S019,so_f,84000,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+FUSPCEU_S019,sd_w,7.75,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+FUSPCEU_S019,sd_f,7.66666666666667,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+FUSPCEU_S019,msw,11250,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+FUSPCEU_S019,msf,11400,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+FUSPCEU_S019,sd_week,7.72619047619048,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+FUSPCEU_S019,outdoor,94.2857142857143,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+FUSPCEU_S019,native_language,TRUE,,Source: demographics.RData; original column: native_language.
+FUSPCEU_S019,employment_status,1,,Source: demographics.RData; original column: employment_status.
+FUSPCEU_S019,medication,TRUE,,Source: health.RData; original column: medication.
+FUSPCEU_S019,tobacco,FALSE,,Source: health.RData; original column: tobacco.
+FUSPCEU_S019,drugs,,,Source: health.RData; original column: drugs.
+FUSPCEU_S019,disorder,FALSE,,Source: health.RData; original column: disorder.
+FUSPCEU_S019,gen_health,2,,Source: health.RData; original column: gen_health.
+FUSPCEU_S019,visual_acuity,1,,Source: health.RData; original column: visual_acuity.
+FUSPCEU_S019,glasses_use,FALSE,,Source: evaluation.RData; original column: glasses_use.
+FUSPCEU_S019,ASE,31,,Source: ase.RData; original column: ASE.
+FUSPCEU_S020,VLSQ8,29,,Source: vlsq8.RData; original column: VLSQ8.
+FUSPCEU_S020,meq_type,3,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+FUSPCEU_S020,meq,58,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+FUSPCEU_S020,msf_sc,18514.2857140303,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+FUSPCEU_S020,sjl,2.5,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+FUSPCEU_S020,so_w,82800,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+FUSPCEU_S020,so_f,3600,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+FUSPCEU_S020,sd_w,8,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+FUSPCEU_S020,sd_f,9,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+FUSPCEU_S020,msw,10800,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+FUSPCEU_S020,msf,19800,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+FUSPCEU_S020,sd_week,8.28571428571428,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+FUSPCEU_S020,outdoor,111.428571428571,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+FUSPCEU_S020,native_language,TRUE,,Source: demographics.RData; original column: native_language.
+FUSPCEU_S020,employment_status,1,,Source: demographics.RData; original column: employment_status.
+FUSPCEU_S020,medication,FALSE,,Source: health.RData; original column: medication.
+FUSPCEU_S020,tobacco,FALSE,,Source: health.RData; original column: tobacco.
+FUSPCEU_S020,drugs,,,Source: health.RData; original column: drugs.
+FUSPCEU_S020,disorder,FALSE,,Source: health.RData; original column: disorder.
+FUSPCEU_S020,gen_health,1,,Source: health.RData; original column: gen_health.
+FUSPCEU_S020,visual_acuity,1,,Source: health.RData; original column: visual_acuity.
+FUSPCEU_S020,glasses_use,FALSE,,Source: evaluation.RData; original column: glasses_use.
+FUSPCEU_S020,ASE,25,,Source: ase.RData; original column: ASE.
+FUSPCEU_S021,VLSQ8,25,,Source: vlsq8.RData; original column: VLSQ8.
+FUSPCEU_S021,meq_type,3,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+FUSPCEU_S021,meq,43,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+FUSPCEU_S021,msf_sc,24750,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+FUSPCEU_S021,sjl,1.5,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+FUSPCEU_S021,so_w,2700,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+FUSPCEU_S021,so_f,8100,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+FUSPCEU_S021,sd_w,9.25,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+FUSPCEU_S021,sd_f,9.25,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+FUSPCEU_S021,msw,19350,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+FUSPCEU_S021,msf,24750,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+FUSPCEU_S021,sd_week,9.25,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+FUSPCEU_S021,outdoor,351.428571428571,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+FUSPCEU_S021,native_language,TRUE,,Source: demographics.RData; original column: native_language.
+FUSPCEU_S021,employment_status,5,,Source: demographics.RData; original column: employment_status.
+FUSPCEU_S021,medication,FALSE,,Source: health.RData; original column: medication.
+FUSPCEU_S021,tobacco,FALSE,,Source: health.RData; original column: tobacco.
+FUSPCEU_S021,drugs,,,Source: health.RData; original column: drugs.
+FUSPCEU_S021,disorder,FALSE,,Source: health.RData; original column: disorder.
+FUSPCEU_S021,gen_health,1,,Source: health.RData; original column: gen_health.
+FUSPCEU_S021,visual_acuity,1,,Source: health.RData; original column: visual_acuity.
+FUSPCEU_S021,glasses_use,FALSE,,Source: evaluation.RData; original column: glasses_use.
+FUSPCEU_S021,ASE,24,,Source: ase.RData; original column: ASE.
+FUSPCEU_S022,VLSQ8,26,,Source: vlsq8.RData; original column: VLSQ8.
+FUSPCEU_S022,meq_type,3,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+FUSPCEU_S022,meq,42,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+FUSPCEU_S022,msf_sc,18385.7142859697,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+FUSPCEU_S022,sjl,1.875,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+FUSPCEU_S022,so_w,83700,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+FUSPCEU_S022,so_f,2700,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+FUSPCEU_S022,sd_w,8.5,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+FUSPCEU_S022,sd_f,9.25,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+FUSPCEU_S022,msw,12600,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+FUSPCEU_S022,msf,19350,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+FUSPCEU_S022,sd_week,8.71428571428572,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+FUSPCEU_S022,outdoor,94.2857142857143,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+FUSPCEU_S022,native_language,TRUE,,Source: demographics.RData; original column: native_language.
+FUSPCEU_S022,employment_status,1,,Source: demographics.RData; original column: employment_status.
+FUSPCEU_S022,medication,FALSE,,Source: health.RData; original column: medication.
+FUSPCEU_S022,tobacco,FALSE,,Source: health.RData; original column: tobacco.
+FUSPCEU_S022,drugs,,,Source: health.RData; original column: drugs.
+FUSPCEU_S022,disorder,FALSE,,Source: health.RData; original column: disorder.
+FUSPCEU_S022,gen_health,2,,Source: health.RData; original column: gen_health.
+FUSPCEU_S022,visual_acuity,1,,Source: health.RData; original column: visual_acuity.
+FUSPCEU_S022,glasses_use,FALSE,,Source: evaluation.RData; original column: glasses_use.
+FUSPCEU_S022,ASE,29,,Source: ase.RData; original column: ASE.
+FUSPCEU_S023,VLSQ8,20,,Source: vlsq8.RData; original column: VLSQ8.
+FUSPCEU_S023,meq_type,3,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+FUSPCEU_S023,meq,49,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+FUSPCEU_S023,msf_sc,24385.7142859697,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+FUSPCEU_S023,sjl,2.83333333333333,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+FUSPCEU_S023,so_w,6600,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+FUSPCEU_S023,so_f,14400,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+FUSPCEU_S023,sd_w,5.16666666666667,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+FUSPCEU_S023,sd_f,6.5,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+FUSPCEU_S023,msw,15900,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+FUSPCEU_S023,msf,26100,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+FUSPCEU_S023,sd_week,5.54761904761905,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+FUSPCEU_S023,outdoor,94.2857142857143,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+FUSPCEU_S023,native_language,TRUE,,Source: demographics.RData; original column: native_language.
+FUSPCEU_S023,employment_status,1,,Source: demographics.RData; original column: employment_status.
+FUSPCEU_S023,medication,FALSE,,Source: health.RData; original column: medication.
+FUSPCEU_S023,tobacco,FALSE,,Source: health.RData; original column: tobacco.
+FUSPCEU_S023,drugs,,,Source: health.RData; original column: drugs.
+FUSPCEU_S023,disorder,FALSE,,Source: health.RData; original column: disorder.
+FUSPCEU_S023,gen_health,1,,Source: health.RData; original column: gen_health.
+FUSPCEU_S023,visual_acuity,1,,Source: health.RData; original column: visual_acuity.
+FUSPCEU_S023,glasses_use,FALSE,,Source: evaluation.RData; original column: glasses_use.
+FUSPCEU_S023,ASE,23,,Source: ase.RData; original column: ASE.
+FUSPCEU_S024,VLSQ8,21,,Source: vlsq8.RData; original column: VLSQ8.
+FUSPCEU_S024,meq_type,3,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+FUSPCEU_S024,meq,49,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+FUSPCEU_S024,msf_sc,24385.7142859697,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+FUSPCEU_S024,sjl,2.83333333333333,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+FUSPCEU_S024,so_w,6600,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+FUSPCEU_S024,so_f,14400,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+FUSPCEU_S024,sd_w,5.16666666666667,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+FUSPCEU_S024,sd_f,6.5,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+FUSPCEU_S024,msw,15900,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+FUSPCEU_S024,msf,26100,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+FUSPCEU_S024,sd_week,5.54761904761905,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+FUSPCEU_S024,outdoor,94.2857142857143,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+FUSPCEU_S024,native_language,FALSE,,Source: demographics.RData; original column: native_language.
+FUSPCEU_S024,employment_status,1,,Source: demographics.RData; original column: employment_status.
+FUSPCEU_S024,medication,FALSE,,Source: health.RData; original column: medication.
+FUSPCEU_S024,tobacco,FALSE,,Source: health.RData; original column: tobacco.
+FUSPCEU_S024,drugs,,,Source: health.RData; original column: drugs.
+FUSPCEU_S024,disorder,FALSE,,Source: health.RData; original column: disorder.
+FUSPCEU_S024,gen_health,2,,Source: health.RData; original column: gen_health.
+FUSPCEU_S024,visual_acuity,1,,Source: health.RData; original column: visual_acuity.
+FUSPCEU_S024,glasses_use,FALSE,,Source: evaluation.RData; original column: glasses_use.
+FUSPCEU_S025,VLSQ8,24,,Source: vlsq8.RData; original column: VLSQ8.
+FUSPCEU_S025,meq_type,3,,Derived phenotype measure calculated during source-data preprocessing. Derived MEQ chronotype category. Source: chronotype.RData; original column: meq_type.
+FUSPCEU_S025,meq,52,score,Derived phenotype measure calculated during source-data preprocessing. Calculated Morningness-Eveningness Questionnaire score. Source: chronotype.RData; original column: meq.
+FUSPCEU_S025,msf_sc,17357.1428569555,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep-corrected midpoint of sleep on free days. Source: chronotype.RData; original column: msf_sc.
+FUSPCEU_S025,sjl,1.75,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated social jetlag. Source: chronotype.RData; original column: sjl.
+FUSPCEU_S025,so_w,84600,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on working days. Source: chronotype.RData; original column: so_w.
+FUSPCEU_S025,so_f,3600,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep onset on free days. Source: chronotype.RData; original column: so_f.
+FUSPCEU_S025,sd_w,7.5,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on working days. Source: chronotype.RData; original column: sd_w.
+FUSPCEU_S025,sd_f,8,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated sleep duration on free days. Source: chronotype.RData; original column: sd_f.
+FUSPCEU_S025,msw,11700,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on working days. Source: chronotype.RData; original column: msw.
+FUSPCEU_S025,msf,18000,seconds after midnight,Derived phenotype measure calculated during source-data preprocessing. Calculated midpoint of sleep on free days. Source: chronotype.RData; original column: msf.
+FUSPCEU_S025,sd_week,7.64285714285714,hours,Derived phenotype measure calculated during source-data preprocessing. Calculated average weekly sleep duration. Source: chronotype.RData; original column: sd_week.
+FUSPCEU_S025,outdoor,111.428571428571,minutes,Derived phenotype measure calculated during source-data preprocessing. Calculated average time spent outside. Source: chronotype.RData; original column: outdoor.
+FUSPCEU_S025,native_language,TRUE,,Source: demographics.RData; original column: native_language.
+FUSPCEU_S025,employment_status,1,,Source: demographics.RData; original column: employment_status.
+FUSPCEU_S025,medication,FALSE,,Source: health.RData; original column: medication.
+FUSPCEU_S025,tobacco,FALSE,,Source: health.RData; original column: tobacco.
+FUSPCEU_S025,drugs,,,Source: health.RData; original column: drugs.
+FUSPCEU_S025,disorder,FALSE,,Source: health.RData; original column: disorder.
+FUSPCEU_S025,gen_health,2,,Source: health.RData; original column: gen_health.
+FUSPCEU_S025,visual_acuity,1,,Source: health.RData; original column: visual_acuity.
+FUSPCEU_S025,glasses_use,FALSE,,Source: evaluation.RData; original column: glasses_use.
+FUSPCEU_S025,ASE,27,,Source: ase.RData; original column: ASE.

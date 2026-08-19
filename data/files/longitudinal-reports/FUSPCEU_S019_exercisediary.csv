@@ -1,0 +1,6 @@
+"Id","Date","instructions","intensity","location","type","commute","sedentary","light_glasses","startdate_3","enddate_3","type_english"
+"FUSPCEU_S019","2024-12-09",1,3,1,"He dado un paseo por la ciudad",20,400,1,"2024-12-09 21:58:25","2024-12-09 22:00:11","walking around the city"
+"FUSPCEU_S019","2024-12-10",1,3,2,"caminata",50,300,0,"2024-12-10 21:44:28","2024-12-10 21:45:33","walking"
+"FUSPCEU_S019","2024-12-11",1,4,,,0,300,,"2024-12-11 20:55:30","2024-12-11 20:55:51",
+"FUSPCEU_S019","2024-12-14",1,2,3,"Caminata",120,300,0,"2024-12-14 23:03:43","2024-12-14 23:04:13","walking"
+"FUSPCEU_S019","2024-12-15",1,2,1,"caminata",150,120,0,"2024-12-15 22:19:27","2024-12-15 22:19:55","walking"

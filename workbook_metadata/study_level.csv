@@ -1,0 +1,14 @@
+Component,Level,Name,Description
+,1,study_ethics,Name of ethics committee and approval number,Comité de Ética de Investigación de la Universidad San Pablo-CEU Código de aprobación 834/24/106
+,1,study_geographical location,"Geographical location and context (city, rural, urban)","40°24′25″ N, 3°52′30″ W (urban)"
+
+Component,Level,Name,Description
+Contributor (contributor.json),0,,Descriptor for contributor to the study
+,1,contributor_full_name,Conributor Full name,David Baeza Moyano,María Concepción Pérez Gutiérrez,Guadalupe Cantarero García,Roberto Alonso González Lezcano,Sofía Melero Tur
+,1,contributor_roles,Contributor Roles,"Conceptualization, Investigation, Methodology, Project administration, resources, Supervision, Validation, Visualization, Writing – original draft –, Writing – review & editing","Investigation, Data curation, Methodology, Visualization, Writing – original draft –, Writing – review & editing","Investigation, Resources, Visualization, Writing – original draft –, Writing – review & editing","Project administration, Validation, Visualization, Writing – original draft –, Writing – review & editing","Investigation, Data curation, Methodology, Validation, Visualization, Writing – original draft –, Writing – review & editing"
+,1,contributor_email,Email address,baezams@ceu.es,cperez.eps@ceu.es,gcgarcia@ceu.es,rgonzalezcano@ceu.es,sofia.melerotur@ceu.es
+,1,contributor_orcid,ORCID identifier,0000-0001-8395-9994 ,0000-0003-0963-6147,0000-0003-3169-8547, 0000-0002-6185-4929  ,0000-0002-5902-4539
+,1,contributor_institution,Institution
+,2,contributor_institution_name,Name of institution,Fundación Universitaria CEU San Pablo,Fundación Universitaria CEU San Pablo,Fundación Universitaria CEU San Pablo,Fundación Universitaria CEU San Pablo,Fundación Universitaria CEU San Pablo
+,2,contributor_institution_city,City of institution,"Boadilla del Monte, Madrid","Boadilla del Monte, Madrid","Boadilla del Monte, Madrid","Boadilla del Monte, Madrid","Boadilla del Monte, Madrid"
+,2,contributor_institution_country,Country of institution,Spain,Spain,Spain,Spain,Spain

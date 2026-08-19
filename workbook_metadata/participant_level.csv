@@ -1,0 +1,11 @@
+Component,Level,Name,Required,Type,Description
+Participant (participant.json),0,,,object,Descriptor for study participant,,,,,,,,2
+,1,participant_internal_id,Yes,string,Unique ID for participant,,,,,,,FUSPCEU_S004,FUSPCEU_S004,FUSPCEU_S005,FUSPCEU_S006,FUSPCEU_S007,FUSPCEU_S008,FUSPCEU_S009,FUSPCEU_S010,FUSPCEU_S011,FUSPCEU_S012,FUSPCEU_S013,FUSPCEU_S014,FUSPCEU_S015,FUSPCEU_S016,FUSPCEU_S017,FUSPCEU_S018,FUSPCEU_S019,FUSPCEU_S020,FUSPCEU_S021,FUSPCEU_S022,FUSPCEU_S023,FUSPCEU_S024,FUSPCEU_S025
+,1,participant_age,Yes,integer,Age of the participant at the time of first participation,,,,,,,,30
+,1,participant_sex,No,string,"Sex of participant, if recorded",,,,,,,,female
+,1,participant_gender,No,string,"Gender of participant, if required",,,,,,,,female
+,1,participant_characteristic,No,array of objects,Biological and non-biological characteristics of participant,2,3,4,,,…,,1,2
+,2,participant_characteristic_name,Yes,string,Name of the characteristic,eye color,height,weight,,,,,Chronotype,eye color
+,2,participant_characteristic_value,Yes,string,Value of the charactericstic,blue,180,75,,,,,40,brown
+,2,participant_characteristic_unit,No,String,Unit of the characteristic,-,cm,kg,,,,,-,-
+,2,participant_characteristic_description,No,string,Description of the characteristic,Iris color,"Body height, measured during briefing session","Body weight, measured during briefing session",,,,,DMEQ,Iris color

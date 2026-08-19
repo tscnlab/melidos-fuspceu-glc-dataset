@@ -1,0 +1,7 @@
+"Id","Date","instructions","intensity","location","type","commute","sedentary","light_glasses","startdate_3","enddate_3","type_english"
+"FUSPCEU_S024","2025-02-03",1,2,2,"cardio por 45 minutos",20,420,0,"2025-02-03 22:36:31","2025-02-03 22:37:32","cardio exercise for 45 minutes"
+"FUSPCEU_S024","2025-02-04",1,2,2,"cardio",20,440,0,"2025-02-05 01:57:51","2025-02-05 01:58:45","cardio exercise"
+"FUSPCEU_S024","2025-02-05",1,3,1,"caminar",20,480,1,"2025-02-05 23:26:49","2025-02-05 23:27:23","walking"
+"FUSPCEU_S024","2025-02-07",1,3,1,"caminar",20,200,0,"2025-02-08 10:04:26","2025-02-08 10:05:41","walking"
+"FUSPCEU_S024","2025-02-08",1,3,1,"caminar por madrid",15,240,1,"2025-02-09 01:22:48","2025-02-09 01:23:48","walking around Madrid"
+"FUSPCEU_S024","2025-02-09",1,3,1,"caminar",20,250,0,"2025-02-10 00:47:31","2025-02-10 00:47:59","walking"

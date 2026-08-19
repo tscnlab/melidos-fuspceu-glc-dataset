@@ -1,0 +1,8 @@
+"Id","Date","instructions","intensity","location","type","commute","sedentary","light_glasses","startdate_3","enddate_3","type_english"
+"FUSPCEU_S015","2024-11-25",1,2,2,"Clase de pilates",2,60,0,"2024-11-25 22:41:41","2024-11-25 22:43:03","Pilates class"
+"FUSPCEU_S015","2024-11-26",1,3,2,"pilates",5,60,0,"2024-11-26 23:21:03","2024-11-26 23:21:56","pilates"
+"FUSPCEU_S015","2024-11-27",1,2,2,"Pilates",30,360,0,"2024-11-27 23:25:17","2024-11-27 23:26:39","Pilates"
+"FUSPCEU_S015","2024-11-28",1,3,1,"Andar",120,360,1,"2024-11-28 22:35:12","2024-11-28 22:35:54","walking"
+"FUSPCEU_S015","2024-11-29",1,3,1,"Andar",30,400,1,"2024-11-29 23:58:43","2024-11-29 23:59:26","walking"
+"FUSPCEU_S015","2024-11-30",1,3,3,"andar",300,200,1,"2024-11-30 23:03:38","2024-11-30 23:04:47","walking"
+"FUSPCEU_S015","2024-12-01",1,3,3,"andar y ejercicios en casa",60,200,1,"2024-12-01 22:52:27","2024-12-01 22:53:21","walking and home workout"

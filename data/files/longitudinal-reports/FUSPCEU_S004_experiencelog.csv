@@ -1,0 +1,2 @@
+"Id","Datetime","is_past","exp_time","type","location","loc_spec","descr","feedback","identity","identity_spec","social_type","removal","future_use","loc_spec_english","descr_english","identity_spec_english","future_use_english"
+"FUSPCEU_S004","2024-10-08 12:27:00","current",1,1,2,,"Un profesor del CEU se ha interesado y quiere realizar el experimento en enero",TRUE,4,,2,FALSE,"De ninguna forma",,"A professor from CEU University was interested and wants to carry out the experiment in January.",,"In no way."

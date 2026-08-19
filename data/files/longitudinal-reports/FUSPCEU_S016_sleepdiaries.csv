@@ -1,0 +1,7 @@
+"Id","bedtime","sleepprep","wake","out_ofbed","sleepdelay","awakenings","awake_duration","sleepquality","daytype2","comments","sleep","sleep_duration","comments_english"
+"FUSPCEU_S016","2024-11-27 01:00:00","2024-11-27 01:00:00","2024-11-27 08:00:00","2024-11-27 08:10:00",180,2,10,2,2,"no","2024-11-27 04:00:00",4,"no"
+"FUSPCEU_S016","2024-11-27 23:22:00","2024-11-27 23:22:00","2024-11-28 09:00:00","2024-11-28 09:15:00",10,1,5,5,2,"mucho mejor que los días anteriores","2024-11-27 23:32:00",9.46666666666667,"much better than previous days"
+"FUSPCEU_S016","2024-11-29 02:00:00","2024-11-29 02:00:00","2024-11-29 09:00:00","2024-11-29 09:40:00",30,0,0,4,2,"ayer celebramos thanksgiving. me he quitado las gafas porque estaba con toda la familia al restaurante","2024-11-29 02:30:00",6.5,"Yesterday we celebrated Thanksgiving. I took off my glasses because I was with the whole family at the restaurant."
+"FUSPCEU_S016","2024-11-29 22:45:00","2024-11-29 22:45:00","2024-11-30 10:00:00","2024-11-30 10:30:00",10,0,0,4,1,"estoy malita entonces he dormido mucho más","2024-11-29 22:55:00",11.0833333333333,"I am sick, so I have slept much more than usual."
+"FUSPCEU_S016","2024-11-30 23:30:00","2024-11-30 23:30:00","2024-12-01 09:00:00","2024-12-01 10:00:00",30,0,0,4,1,"no","2024-12-01 00:00:00",9,"no"
+"FUSPCEU_S016","2024-12-02 01:31:00","2024-12-02 01:31:00","2024-12-02 09:15:00","2024-12-02 09:52:00",4,0,0,5,1,"no","2024-12-02 01:35:00",7.66666666666667,"no"

@@ -1,0 +1,87 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Personal light exposure dataset for Madrid, Spain'
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: David
+    family-names: Baeza Moyano
+    email: baezams@ceu.es
+    affiliation: >-
+      Fundación Universitaria CEU San Pablo, Boadilla del
+      Monte, Madrid, Spain
+    orcid: 'https://orcid.org/0000-0001-8395-9994'
+  - given-names: María Concepción
+    family-names: Pérez Gutiérrez
+    email: cperez.eps@ceu.es
+    affiliation: >-
+      Fundación Universitaria CEU San Pablo, Boadilla del
+      Monte, Madrid, Spain
+    orcid: 'https://orcid.org/0000-0003-0963-6147'
+  - given-names: Guadalupe
+    family-names: Cantarero García
+    email: gcgarcia@ceu.es
+    orcid: 'https://orcid.org/0000-0003-3169-8547'
+    affiliation: >-
+      Fundación Universitaria CEU San Pablo, Boadilla del
+      Monte, Madrid, Spain
+  - given-names: Roberto Alonso
+    family-names: González Lezcano
+    email: rgonzalezcano@ceu.es
+    affiliation: >-
+      Fundación Universitaria CEU San Pablo, Boadilla del
+      Monte, Madrid, Spain
+    orcid: 'https://orcid.org/0000-0002-6185-4929'
+  - given-names: Sofía
+    family-names: Melero Tur
+    email: sofia.melerotur@ceu.es
+    affiliation: >-
+      Fundación Universitaria CEU San Pablo, Boadilla del
+      Monte, Madrid, Spain
+    orcid: 'https://orcid.org/0000-0002-5902-4539'
+  - given-names: Johannes
+    family-names: Zauner
+    email: johannes.zauner@tum.de
+    affiliation: >-
+      Technical University of Munich; Max Planck Institute
+      for Biological Cybernetics
+    orcid: 'https://orcid.org/0000-0003-2171-4566'
+  - given-names: Manuel
+    family-names: Spitschan
+    email: manuel.spitschan@tum.de
+    affiliation: >-
+      Technical University of Munich; Max Planck Institute
+      for Biological Cybernetics; TUM Institute for Advanced
+      Study (TUM-IAS)
+    orcid: 'https://orcid.org/0000-0002-8572-9268'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.17303713
+    description: Zenodo archive (V1.0.1)
+  - type: doi
+    value: 10.5281/zenodo.16834951
+    description: Zenodo Archive (latest version)
+repository-code: 'https://github.com/MeLiDosProject/BaezaEtAl_Dataset_2025'
+url: 'https://www.melidos.eu'
+abstract: >-
+  This repository contains the comprehensive dataset for the
+  MeLiDos field study site of Madrid, Spain. Data were
+  collected by Fundación Universitaria CEU San Pablo
+  (FUSP-CEU)  and are further processed and analysed by the
+  Translational Sensory & Circadian Neuroscience Unit
+  (TSCN). A detailed description of the experiment is
+  available in Guidolin et al., 2024.
+keywords:
+  - light exposure
+  - wearable
+  - healthy light
+  - circadian
+  - melanopic
+  - naturalistic setting
+license: CC-BY-4.0
+version: 1.0.1
+date-released: '2025-10-07'

@@ -1,0 +1,5 @@
+"Id","Datetime","is_past","exp_time","type","location","loc_spec","descr","feedback","identity","identity_spec","social_type","removal","future_use","loc_spec_english","descr_english","identity_spec_english","future_use_english"
+"FUSPCEU_S011","2024-11-11 15:10:00","past",2,2,2,,"En la oficina. Curiosidad.",TRUE,2,,2,FALSE,"De ninguna manera",,"In the office. Curiosity.",,"In no way."
+"FUSPCEU_S011","2024-11-12 10:12:00","current",1,1,2,,"Curiosidad y risas.",TRUE,2,,1,FALSE,"No influirá",,"Curiosity and laughter.",,"It will not influence."
+"FUSPCEU_S011","2024-11-14 13:57:00","current",1,2,3,,"En la carnicería. Curiosidad. Hablaban entre ellos.",TRUE,4,,1,FALSE,"No influirá.",,"At the butcher's. Curiosity. They were talking among themselves.",,"It will not influence."
+"FUSPCEU_S011","2024-11-15 10:33:00","current",1,2,2,,"Curiosidad. Preguntas. Risas.",TRUE,2,,1,FALSE,"No influirá",,"Curiosity. Questions. Laughter.",,"It will not influence."

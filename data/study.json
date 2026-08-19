@@ -1,0 +1,141 @@
+[
+  {
+    "schema_version": "3.0.2",
+    "study_internal_id": "MELIDOS_FUSPCEU_2025",
+    "study_title": "Personal light exposure dataset for Madrid, Spain",
+    "study_ethics": "Comité de Ética de Investigación de la Universidad San Pablo-CEU (approval 834/24/106)",
+    "study_short_description": "MeLiDos field-study data collected by Fundación Universitaria CEU San Pablo (FUSPCEU) in Madrid, Spain.",
+    "study_sample": "Twenty-three included participants from the MeLiDos FUSPCEU field site; 25 participants were enrolled.",
+    "study_setting": "Field study",
+    "study_geographical_location": "Boadilla del Monte, Madrid, Spain, urban (40°24′25″ N, 3°52′30″ W)",
+    "study_contributors": [
+      {
+        "contributor_full_name": "David Baeza Moyano",
+        "contributor_roles": [
+          "Conceptualization",
+          "Investigation",
+          "Methodology",
+          "Project administration",
+          "Resources",
+          "Supervision",
+          "Validation",
+          "Visualization",
+          "Writing – original draft",
+          "Writing – review & editing"
+        ],
+        "contributor_email": "baezams@ceu.es",
+        "contributor_orcid": "https://orcid.org/0000-0001-8395-9994",
+        "contributor_institution": {
+          "contributor_institution_name": "Fundación Universitaria CEU San Pablo",
+          "contributor_institution_city": "Boadilla del Monte, Madrid",
+          "contributor_institution_country": "Spain"
+        }
+      },
+      {
+        "contributor_full_name": "María Concepción Pérez Gutiérrez",
+        "contributor_roles": [
+          "Investigation",
+          "Data curation",
+          "Methodology",
+          "Visualization",
+          "Writing – original draft",
+          "Writing – review & editing"
+        ],
+        "contributor_email": "cperez.eps@ceu.es",
+        "contributor_orcid": "https://orcid.org/0000-0003-0963-6147",
+        "contributor_institution": {
+          "contributor_institution_name": "Fundación Universitaria CEU San Pablo",
+          "contributor_institution_city": "Boadilla del Monte, Madrid",
+          "contributor_institution_country": "Spain"
+        }
+      },
+      {
+        "contributor_full_name": "Guadalupe Cantarero García",
+        "contributor_roles": [
+          "Investigation",
+          "Resources",
+          "Visualization",
+          "Writing – original draft",
+          "Writing – review & editing"
+        ],
+        "contributor_email": "gcgarcia@ceu.es",
+        "contributor_orcid": "https://orcid.org/0000-0003-3169-8547",
+        "contributor_institution": {
+          "contributor_institution_name": "Fundación Universitaria CEU San Pablo",
+          "contributor_institution_city": "Boadilla del Monte, Madrid",
+          "contributor_institution_country": "Spain"
+        }
+      },
+      {
+        "contributor_full_name": "Roberto Alonso González Lezcano",
+        "contributor_roles": [
+          "Project administration",
+          "Validation",
+          "Visualization",
+          "Writing – original draft",
+          "Writing – review & editing"
+        ],
+        "contributor_email": "rgonzalezcano@ceu.es",
+        "contributor_orcid": "https://orcid.org/0000-0002-6185-4929",
+        "contributor_institution": {
+          "contributor_institution_name": "Fundación Universitaria CEU San Pablo",
+          "contributor_institution_city": "Boadilla del Monte, Madrid",
+          "contributor_institution_country": "Spain"
+        }
+      },
+      {
+        "contributor_full_name": "Sofía Melero Tur",
+        "contributor_roles": [
+          "Investigation",
+          "Data curation",
+          "Methodology",
+          "Validation",
+          "Visualization",
+          "Writing – original draft",
+          "Writing – review & editing"
+        ],
+        "contributor_email": "sofia.melerotur@ceu.es",
+        "contributor_orcid": "https://orcid.org/0000-0002-5902-4539",
+        "contributor_institution": {
+          "contributor_institution_name": "Fundación Universitaria CEU San Pablo",
+          "contributor_institution_city": "Boadilla del Monte, Madrid",
+          "contributor_institution_country": "Spain"
+        }
+      }
+    ],
+    "study_datasets": [
+      "MELIDOS_FUSPCEU_S003",
+      "MELIDOS_FUSPCEU_S004",
+      "MELIDOS_FUSPCEU_S005",
+      "MELIDOS_FUSPCEU_S006",
+      "MELIDOS_FUSPCEU_S007",
+      "MELIDOS_FUSPCEU_S008",
+      "MELIDOS_FUSPCEU_S009",
+      "MELIDOS_FUSPCEU_S010",
+      "MELIDOS_FUSPCEU_S011",
+      "MELIDOS_FUSPCEU_S012",
+      "MELIDOS_FUSPCEU_S013",
+      "MELIDOS_FUSPCEU_S014",
+      "MELIDOS_FUSPCEU_S015",
+      "MELIDOS_FUSPCEU_S016",
+      "MELIDOS_FUSPCEU_S017",
+      "MELIDOS_FUSPCEU_S018",
+      "MELIDOS_FUSPCEU_S019",
+      "MELIDOS_FUSPCEU_S020",
+      "MELIDOS_FUSPCEU_S021",
+      "MELIDOS_FUSPCEU_S022",
+      "MELIDOS_FUSPCEU_S023",
+      "MELIDOS_FUSPCEU_S024",
+      "MELIDOS_FUSPCEU_S025"
+    ],
+    "study_type": "field study",
+    "study_keywords": [
+      "light exposure",
+      "circadian",
+      "wearable sensor",
+      "MeLiDos",
+      "Madrid",
+      "Spain"
+    ]
+  }
+]

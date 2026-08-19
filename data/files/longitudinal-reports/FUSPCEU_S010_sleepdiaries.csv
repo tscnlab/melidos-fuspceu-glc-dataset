@@ -1,0 +1,8 @@
+"Id","bedtime","sleepprep","wake","out_ofbed","sleepdelay","awakenings","awake_duration","sleepquality","daytype2","comments","sleep","sleep_duration","comments_english"
+"FUSPCEU_S010","2024-11-04 19:15:00","2024-11-04 22:30:00","2024-11-05 07:00:00","2024-11-05 07:05:00",5,1,1,4,2,"no","2024-11-04 22:35:00",8.41666666666667,"no"
+"FUSPCEU_S010","2024-11-05 19:06:00","2024-11-05 22:30:00","2024-11-06 07:00:00","2024-11-06 07:00:00",5,3,1,3,2,"no","2024-11-05 22:35:00",8.41666666666667,"no"
+"FUSPCEU_S010","2024-11-06 19:19:00","2024-11-06 22:30:00","2024-11-07 07:00:00","2024-11-07 07:10:00",30,1,10,2,2,"no","2024-11-06 23:00:00",8,"no"
+"FUSPCEU_S010","2024-11-07 23:00:00","2024-11-07 23:00:00","2024-11-08 07:00:00","2024-11-08 07:05:00",5,0,0,4,2,"no","2024-11-07 23:05:00",7.91666666666667,"no"
+"FUSPCEU_S010","2024-11-09 00:10:00","2024-11-09 00:10:00","2024-11-09 08:00:00","2024-11-09 08:00:00",5,1,1,4,1,"no","2024-11-09 00:15:00",7.75,"no"
+"FUSPCEU_S010","2024-11-10 00:30:00","2024-11-10 00:30:00","2024-11-10 08:30:00","2024-11-10 08:30:00",5,0,0,4,1,"Desde el día 9 de noviembre sábado, se registra con el sensor de pecho porque el sensor de las gafas no sabemos si registra, ya que no se enciende la luz.","2024-11-10 00:35:00",7.91666666666667,"Since Saturday, November 9th, recording is done with the chest sensor because we are not sure if the glasses sensor is recording, as the light does not turn on."
+"FUSPCEU_S010","2024-11-10 23:00:00","2024-11-10 23:00:00","2024-11-11 07:00:00","2024-11-11 07:05:00",10,5,1,2,2,"el sensor del pecho es el que sigue registrando ya que las gafas no encienden su luz","2024-11-10 23:10:00",7.83333333333333,"the chest sensor is the one that continues recording since the glasses do not turn on their light"

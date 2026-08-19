@@ -1,0 +1,6 @@
+"Id","start","state","duration","end","wearlog_event","reason","wearlog_type","radius","wearlog_bp","wearlog_bag","wearlog_place","wearlog_motion","wearlog_place_english"
+"FUSPCEU_S013","2024-11-18 23:33:00","sleep",477,"2024-11-19 07:30:00",3,,1,,,,,,
+"FUSPCEU_S013","2024-11-21 00:12:00","sleep",450,"2024-11-21 07:42:00",3,,1,,,,,,
+"FUSPCEU_S013","2024-11-21 23:04:00","sleep",493,"2024-11-22 07:17:00",3,,1,,,,,,
+"FUSPCEU_S013","2024-11-22 23:26:00","sleep",552,"2024-11-23 08:38:00",3,,1,,,,,,
+"FUSPCEU_S013","2024-11-24 00:06:00","sleep",570,"2024-11-24 09:36:00",3,,1,,,,,,
